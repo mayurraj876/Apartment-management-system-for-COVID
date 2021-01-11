@@ -1,0 +1,6 @@
+CREATE A DATABASE WITH NAME "avmsdb"
+
+IMPORT FILE WITH NAME "avmsbd_sql.sql " IN INCLUDE FOLDER IN DATABASE
+for admin use 
+user name mayur 
+password mayur
